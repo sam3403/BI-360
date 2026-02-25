@@ -49,19 +49,19 @@ Data is pulled from:
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive view.png)
+![Executive Overview](screenshots/executive-view.png)
 
 ### Finance View (P&L & Trends)
-![Finance View](screenshots/finance view.png)
+![Finance View](screenshots/finance-view.png)
 
 ### Sales View (Customer & Product Performance)
-![Sales View](screenshots/sales view.png)
+![Sales View](screenshots/sales-view.png)
 
 ### Marketing View (Regional & Product Metrics)
-![Marketing View](screenshots/marketing view.png)
+![Marketing View](screenshots/marketing-view.png)
 
 ### Supply Chain View (Forecast & Error Analysis)
-![Supply Chain View](screenshots/supply chain view.png)
+![Supply Chain View](screenshots/supply-chain view.png)
 
 ## Links 🔗
 
